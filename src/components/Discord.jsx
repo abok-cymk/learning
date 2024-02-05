@@ -17,8 +17,8 @@ function Discord() {
       </div>
       <div className="bg-gray-600 flex-1 flex flex-col">
         <div className="p-4 shadow-md">General</div>
-        <div className="p-4 flex-1 flex flex-col">
-          <div className="flex flex-col">
+        <div className="p-4 flex-1 flex flex-col ">
+          <div className="flex flex-col hover:bg-gray-800 hover:bg-opacity-30">
             <div className="flex items-center ">
               <img
                 src="/static/images/allan.jpg"
@@ -65,7 +65,7 @@ function Discord() {
               </div>
             </div>
           </div>
-          <div className="flex flex-col">
+          <div className="flex flex-col hover:bg-gray-800 hover:bg-opacity-30">
             <div className="flex items-center ">
               <img
                 src="/static/images/patricia.jpeg"
